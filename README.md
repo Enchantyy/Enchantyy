@@ -7,7 +7,7 @@
  <br>
  <br>
  <div align="center">
-<span style="color: #00ff00">Este texto es verde con código HEX</span>
+<span style="color:#00ff00">Este texto es verde con código HEX</span>
  
 
 
