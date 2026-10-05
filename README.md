@@ -7,7 +7,7 @@
  <br>
  <br>
  <div align="center">
-<span style="color: red">Este texto es rojo</span>
+
  
 
 
