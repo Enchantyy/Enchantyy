@@ -7,7 +7,7 @@
  <br>
  <br>
  <div align="center">
-$${\color{#4285f4}Este\ texto\ usa\ un\ código\ HEX\ azul}$$
+<span style="color: red">Este texto es rojo</span>
  
 
 
