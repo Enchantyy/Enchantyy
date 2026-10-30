@@ -7,7 +7,8 @@
  <br>
  <div align="center">
  <br>
- <img width="720" height="520" alt="Screenshot_20261029_234419_ibisPaint_X" src="https://github.com/user-attachments/assets/f33bfe51-50fa-4268-b4ef-6b8275b12e37" />
+ <img width="588" height="424" alt="Screenshot_20261029_234419_ibisPaint_X-removebg-preview" src="https://github.com/user-attachments/assets/4540346b-4c7c-4b15-96b4-61895889ecd9" />
+
 
 
   
