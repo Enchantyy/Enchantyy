@@ -6,6 +6,10 @@
  <br>
  <br>
  <div align="center">
+ <br>
+ <img width="720" height="520" alt="Screenshot_20261029_234419_ibisPaint_X" src="https://github.com/user-attachments/assets/569d03f6-e33a-4d35-9249-9eb230dcee6d" />
+
+  
 
  
 
