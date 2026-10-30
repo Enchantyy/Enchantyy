@@ -8,8 +8,10 @@
  <div align="center">
  <br>
  <div align="center">
+   <br>
   she
  <img width="400" height="300" alt="Screenshot_20261029_234419_ibisPaint_X-removebg-preview" src="https://github.com/user-attachments/assets/4540346b-4c7c-4b15-96b4-61895889ecd9" />
+   <br>
   they
    <br>
            enchant          / ozo        / ash
