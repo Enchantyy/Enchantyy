@@ -15,7 +15,7 @@
    <td width="200px">she</td>
     <td width="200px">they</td>
     <div align="center">
-           /  (˶ˆᗜˆ˵)  /      
+             (˶ˆᗜˆ˵)    
             
 
 
