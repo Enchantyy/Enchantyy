@@ -12,7 +12,12 @@
    <br>
            enchant          / ozo        / ash
             <br>
-  she         /  (˶ˆᗜˆ˵)  /      they
+  <div align="left">
+   she
+   <div align="right">
+    they
+    <div align="center">
+           /  (˶ˆᗜˆ˵)  /      
             
 
 
