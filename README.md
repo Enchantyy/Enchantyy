@@ -17,8 +17,7 @@
  <br>
  <br>
  <br>
-     <a href="(https://daheartgoestoheaven.straw.page)"><td width="200px">straw</td></a>
-            
+ <a href="https://daheartgoestoheaven.straw.page"><td width="200px">straw</td></a>
 
 
   
