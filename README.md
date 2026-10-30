@@ -12,9 +12,9 @@
    <br>
            enchant          / ozo        / ash
             <br>
-   <td width="200px">Left Column Content</td>
+   <td width="200px">she</td>
    she
-    <td width="200px">Left Column Content</td>
+    <td width="200px">they</td>
     they
     <div align="center">
            /  (˶ˆᗜˆ˵)  /      
