@@ -25,6 +25,8 @@
  <br>
   <br>
 <details open><summary><span style="color: #ff5733;"{hi}$span></summary></details>
+> [!NOTE]
+> This will show up with a blue accent highlight.
 
 
 
