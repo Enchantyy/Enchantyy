@@ -24,7 +24,7 @@
  <br>
  <br>
   <br>
-<details open><summary><span style="color: #ff5733;">$\color{#2ea44f}{\text{This is GitHub green text}}$span></summary></details>
+<details open><summary><span style="color: #ff5733;"{hi}$span></summary></details>
 
 
 
