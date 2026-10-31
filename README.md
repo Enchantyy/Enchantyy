@@ -16,10 +16,13 @@
      <td width="200px">she</td>           (˶ˆᗜˆ˵)      <td width="200px">they</td>
  <br>
  <br>
+      <div align="center">
      <td width="200px">
  <a href="https://daheartgoestoheaven.straw.page"><td width="200px">straw</td></a></td>
   &nbsp;
    &nbsp;
+     &nbsp;
+     &nbsp;
      &nbsp;
      &nbsp;
    <td width="200px">
