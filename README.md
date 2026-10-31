@@ -24,7 +24,7 @@
  <br>
  <br>
   <br>
-$\color{#2ea44f}{\text{This is GitHub green text}}$
+<details open><summary><span style="color: #ff5733;">This is colored text that actually works!</span></summary></details>
 
 
 
